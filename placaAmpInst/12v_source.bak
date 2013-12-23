@@ -1,0 +1,16 @@
+EESchema-LIBRARY Version 2.3  Date: mar 03 dic 2013 12:17:50 CLST
+#encoding utf-8
+#
+# 12V_SOURCE
+#
+DEF 12V_SOURCE P 0 40 Y N 1 F N
+F0 "P" -50 0 40 V V C CNN
+F1 "12V_SOURCE" 50 0 40 V V C CNN
+DRAW
+S -100 150 100 -150 0 1 0 N
+X Vout 1 -350 100 250 R 60 60 1 1 w I
+X GND 2 -350 -100 250 R 60 60 1 1 w I
+ENDDRAW
+ENDDEF
+#
+#End Library
