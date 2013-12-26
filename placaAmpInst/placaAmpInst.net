@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/toopazo/repo/git/ampInst/placaAmpInst/placaAmpInst.sch)
-    (date "lun 23 dic 2013 15:20:53 CLST")
+    (date "lun 23 dic 2013 17:21:57 CLST")
     (tool "eeschema (2013-12-18 BZR 4557)-product"))
   (components
     (comp (ref R9)
@@ -291,10 +291,10 @@
       (uri /usr/local/share/kicad/library/device.lib))
     (library (logical conn)
       (uri /usr/local/share/kicad/library/conn.lib))
-    (library (logical ap1509)
-      (uri ap1509.lib))
     (library (logical ad8422)
       (uri ad8422.lib))
+    (library (logical ap1509)
+      (uri ap1509.lib))
     (library (logical tps6735)
       (uri tps6735.lib)))
   (nets
